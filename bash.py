@@ -21,7 +21,7 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}YOUTUBE NOOB {}|
+{}       @p~qp~~qMb{}   ._| {} YOUTUBE NOOB {}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
@@ -29,7 +29,7 @@ banner = """
     dZP          qKKb
    fZP            SMMb
    HZM            MMMM    {}YouTube Channel {}: {}YouTubeNoob
-{}   FqM            MMMM    {}Telegram       {}: {}@ytnoobofficial
+{}   FqM            MMMM    {}Telegram {}: {}@ytnoobofficial
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
