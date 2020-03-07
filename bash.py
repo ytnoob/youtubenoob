@@ -28,7 +28,7 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}YouTubeNoob
+   HZM            MMMM    {}YouTube Channel {}: {}YouTubeNoob
 {}   FqM            MMMM    {}Telegram       {}: {}@ytnoobofficial
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
